@@ -1,4 +1,4 @@
-// GPA-Calculation
+# GPA Calculator
 
 #include <iostream>
 
